@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c99bd7afeeabff642b2474d68090c1a2, type: 3}
+  m_Name: Elixir Of Youth
+  m_EditorClassIdentifier: 
+  RecipeName: Elixir Of Youth
+  GoldValue: 250
+  smallPotion: {fileID: 21300000, guid: 8430ccf51fd163f4a87084c8248d9a59, type: 3}
+  mediumPotion: {fileID: 21300000, guid: c962ce462cfac06459196fc1d870ab71, type: 3}
+  largePotion: {fileID: 21300000, guid: 3dd5ab469d5cf06449fb42ff7d17e32a, type: 3}
+  Ingredients:
+  - Ingredient: {fileID: 11400000, guid: 0dd7c2513da25624cb64f475f73813e7, type: 2}
+    Quantity: 2
+  - Ingredient: {fileID: 11400000, guid: 5351dfa2b79cea24c99ad5300caab12b, type: 2}
+    Quantity: 1
+  STRGoal: 2
+  INTGoal: -3
+  AGIGoal: 4

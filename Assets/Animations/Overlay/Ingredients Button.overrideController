@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ingredients Button
+  m_Controller: {fileID: 9100000, guid: f218504e9bf39094faeeeb7e82fd5cff, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ddb4c0990c17b4446b194410713495e8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 92f39659a5f17424badf57028dfaec4b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0db9bb0d82ce5314aa31e1bdad02efa2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7430abb9ea908354bb173039d8ff0222, type: 2}
